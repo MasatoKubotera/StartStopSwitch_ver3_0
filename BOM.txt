@@ -1,0 +1,6 @@
+Partlist exported from C:/Users/Masato/Documents/EAGLE/projects/StartStopSwitch_ver3_0/StartStopSwitch_Ver3_0.sch at 2022/09/21 5:05
+
+Qty Value         Device        Package       Parts Description 
+1   JF15SP1C      JF15SP1C      JF15SP1       S2                
+1   JF15SP1F      JF15SP1F      JF15SP1       S1                
+1   PRO_MICRO_SMD PRO_MICRO_SMD PRO_MICRO_SMD M1                
